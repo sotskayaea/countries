@@ -24,11 +24,11 @@
     "modern-normalize": "^1.1.0",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
     "parcel-plugin-nuke-dist": "^1.0.1",
+    "@pnotify/core": "^5.2.0",
     "pnotify": "^5.2.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
-    "@pnotify/core": "^5.2.0",
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
